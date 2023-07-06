@@ -2,7 +2,7 @@
 
 Pasos para ejecutar proyecto:
 
-# Local
+## Local
 
 1. Clonar repositorio.
 2. Ejecutar ```npm install``` para reconstruir los módulos de node.
