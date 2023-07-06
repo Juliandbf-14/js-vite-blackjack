@@ -2,6 +2,8 @@
 
 Pasos para ejecutar proyecto:
 
+# Local
+
 1. Clonar repositorio.
 2. Ejecutar ```npm install``` para reconstruir los módulos de node.
 3. Correr el devServwer ``` npm run dev ```
